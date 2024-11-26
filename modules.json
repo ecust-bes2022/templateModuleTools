@@ -1,0 +1,22 @@
+{
+    "modules": [
+        {
+            "id": "calculator",
+            "name": "计算器",
+            "path": "modules/calculator",
+            "version": "1.0",
+            "description": "基础计算器模块",
+            "icon": "calculator.png",
+            "enabled": true
+        },
+        {
+            "id": "serial",
+            "name": "串口通信",
+            "path": "modules/serial",
+            "version": "1.0",
+            "description": "串口通信模块",
+            "icon": "serial.png",
+            "enabled": true
+        }
+    ]
+} 
